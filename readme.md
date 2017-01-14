@@ -1,7 +1,7 @@
-GreaetSchools API
+GreatSchools API
 ====================
 
-GreatSchools has its own API. It is not compatible with the [Basecamp Classic API](https://github.com/basecamp/basecamp-classic-api) or the [Basecamp 3 API](https://github.com/basecamp/bc3-api). The core ingredients are still the same, though. This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication.
+It is not compatible with the [Basecamp Classic API](https://github.com/basecamp/basecamp-classic-api) or the [Basecamp 3 API](https://github.com/basecamp/bc3-api). The core ingredients are still the same, though. This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication.
 
 
 Making a request
