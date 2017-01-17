@@ -10,8 +10,11 @@ The GreatSchools API allows you to add valuable information to your application,
 * Schools near an address
 * Data about specific schools, including school directory information, grade levels, enrollment, test scores, ratings and reviews and more.
 
-Read our documentation to learn more about what you can do.
+Gettign Started
+====================
 
-Request a key for the GreatSchool API
+* Read our documentation to learn more about what you can do.
+* Request a key for the GreatSchool API
+* Terms of Use
 
 
