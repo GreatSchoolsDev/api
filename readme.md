@@ -1,7 +1,14 @@
 GreatSchools API
 ====================
 
-It is not compatible with the [Basecamp Classic API](https://github.com/basecamp/basecamp-classic-api) or the [Basecamp 3 API](https://github.com/basecamp/bc3-api). The core ingredients are still the same, though. This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication.
+Feature GreatSchools data on your site.
+
+GreatSchools has profiles of 200,000 public, public charter and private preK-12 schools. With more than one million school ratings and reviews by parents, teachers and students, we provide the most comprehensive information about schools in the United States.
+
+The GreatSchools API allows you to add valuable information to your application, including:
+* Schools in a city
+* Schools near an address
+* Data about specific schools, including school directory information, grade levels, enrollment, test scores, ratings and reviews and more.
 
 
 Making a request
